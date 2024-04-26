@@ -1,4 +1,4 @@
-- name: variables from files
+- name: variables from inventory
   hosts: localhost
   tasks:
   - name: print information
